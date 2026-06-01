@@ -1,0 +1,2129 @@
+{
+  "users": [
+    {
+      "id": "usr_diego",
+      "name": "Diego",
+      "login": "diego",
+      "passwordHash": "2d6cb2d8819402c95cd9f1ff0ebc9d4c:99b15d86d9ce22416b88b490205e4aac8cb365a8c4192d973a014eade0cd6d0c641118a2e2d53714a9004c0b93b43717ffd9fd7d1ec53a601c14a9e14fe01c9c",
+      "active": true
+    }
+  ],
+  "localStocks": [
+    {
+      "id": "loc_rincao",
+      "name": "Rincão",
+      "active": true
+    },
+    {
+      "id": "loc_estancia",
+      "name": "Estância",
+      "active": true
+    }
+  ],
+  "spaces": [],
+  "products": [
+    {
+      "id": "prd_001",
+      "name": "Arroz Branco",
+      "category": "Mercearia",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_002",
+      "name": "Feijao Carioca",
+      "category": "Mercearia",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_003",
+      "name": "Feijao Preto",
+      "category": "Mercearia",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_004",
+      "name": "Acucar Cristal",
+      "category": "Mercearia",
+      "unit": "pacote",
+      "active": true
+    },
+    {
+      "id": "prd_005",
+      "name": "Sal Refinado",
+      "category": "Mercearia",
+      "unit": "caixa",
+      "active": true
+    },
+    {
+      "id": "prd_006",
+      "name": "Farinha de Trigo",
+      "category": "Mercearia",
+      "unit": "fardo",
+      "active": true
+    },
+    {
+      "id": "prd_007",
+      "name": "Fuba",
+      "category": "Mercearia",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_008",
+      "name": "Macarrao Espaguete",
+      "category": "Mercearia",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_009",
+      "name": "Macarrao Parafuso",
+      "category": "Mercearia",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_010",
+      "name": "Oleo de Soja",
+      "category": "Mercearia",
+      "unit": "pacote",
+      "active": true
+    },
+    {
+      "id": "prd_011",
+      "name": "Azeite",
+      "category": "Mercearia",
+      "unit": "caixa",
+      "active": true
+    },
+    {
+      "id": "prd_012",
+      "name": "Vinagre",
+      "category": "Mercearia",
+      "unit": "fardo",
+      "active": true
+    },
+    {
+      "id": "prd_013",
+      "name": "Molho de Tomate",
+      "category": "Mercearia",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_014",
+      "name": "Extrato de Tomate",
+      "category": "Mercearia",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_015",
+      "name": "Milho Verde",
+      "category": "Mercearia",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_016",
+      "name": "Ervilha",
+      "category": "Mercearia",
+      "unit": "pacote",
+      "active": true
+    },
+    {
+      "id": "prd_017",
+      "name": "Aveia",
+      "category": "Mercearia",
+      "unit": "caixa",
+      "active": true
+    },
+    {
+      "id": "prd_018",
+      "name": "Granola",
+      "category": "Mercearia",
+      "unit": "fardo",
+      "active": true
+    },
+    {
+      "id": "prd_019",
+      "name": "Cafe Torrado",
+      "category": "Mercearia",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_020",
+      "name": "Achocolatado",
+      "category": "Mercearia",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_021",
+      "name": "Leite Integral",
+      "category": "Laticinios",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_022",
+      "name": "Leite Desnatado",
+      "category": "Laticinios",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_023",
+      "name": "Creme de Leite",
+      "category": "Laticinios",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_024",
+      "name": "Leite Condensado",
+      "category": "Laticinios",
+      "unit": "pacote",
+      "active": true
+    },
+    {
+      "id": "prd_025",
+      "name": "Queijo Mussarela",
+      "category": "Laticinios",
+      "unit": "caixa",
+      "active": true
+    },
+    {
+      "id": "prd_026",
+      "name": "Queijo Prato",
+      "category": "Laticinios",
+      "unit": "fardo",
+      "active": true
+    },
+    {
+      "id": "prd_027",
+      "name": "Requeijao",
+      "category": "Laticinios",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_028",
+      "name": "Manteiga",
+      "category": "Laticinios",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_029",
+      "name": "Margarina",
+      "category": "Laticinios",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_030",
+      "name": "Iogurte Natural",
+      "category": "Laticinios",
+      "unit": "pacote",
+      "active": true
+    },
+    {
+      "id": "prd_031",
+      "name": "Iogurte Morango",
+      "category": "Laticinios",
+      "unit": "caixa",
+      "active": true
+    },
+    {
+      "id": "prd_032",
+      "name": "Leite em Po",
+      "category": "Laticinios",
+      "unit": "fardo",
+      "active": true
+    },
+    {
+      "id": "prd_033",
+      "name": "Refrigerante Cola",
+      "category": "Bebidas",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_034",
+      "name": "Refrigerante Guarana",
+      "category": "Bebidas",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_035",
+      "name": "Suco de Laranja",
+      "category": "Bebidas",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_036",
+      "name": "Suco de Uva",
+      "category": "Bebidas",
+      "unit": "pacote",
+      "active": true
+    },
+    {
+      "id": "prd_037",
+      "name": "Agua Mineral",
+      "category": "Bebidas",
+      "unit": "caixa",
+      "active": true
+    },
+    {
+      "id": "prd_038",
+      "name": "Agua com Gas",
+      "category": "Bebidas",
+      "unit": "fardo",
+      "active": true
+    },
+    {
+      "id": "prd_039",
+      "name": "Energetico",
+      "category": "Bebidas",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_040",
+      "name": "Cha Mate",
+      "category": "Bebidas",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_041",
+      "name": "Cha Gelado",
+      "category": "Bebidas",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_042",
+      "name": "Isotonico",
+      "category": "Bebidas",
+      "unit": "pacote",
+      "active": true
+    },
+    {
+      "id": "prd_043",
+      "name": "Peito de Frango",
+      "category": "Proteinas",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_044",
+      "name": "Coxa de Frango",
+      "category": "Proteinas",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_045",
+      "name": "Linguica Toscana",
+      "category": "Proteinas",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_046",
+      "name": "Carne Moida",
+      "category": "Proteinas",
+      "unit": "pacote",
+      "active": true
+    },
+    {
+      "id": "prd_047",
+      "name": "Patinho",
+      "category": "Proteinas",
+      "unit": "caixa",
+      "active": true
+    },
+    {
+      "id": "prd_048",
+      "name": "Acem",
+      "category": "Proteinas",
+      "unit": "fardo",
+      "active": true
+    },
+    {
+      "id": "prd_049",
+      "name": "Bacon",
+      "category": "Proteinas",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_050",
+      "name": "Presunto",
+      "category": "Proteinas",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_051",
+      "name": "Calabresa",
+      "category": "Proteinas",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_052",
+      "name": "Salsicha",
+      "category": "Proteinas",
+      "unit": "pacote",
+      "active": true
+    },
+    {
+      "id": "prd_053",
+      "name": "Atum em Lata",
+      "category": "Proteinas",
+      "unit": "caixa",
+      "active": true
+    },
+    {
+      "id": "prd_054",
+      "name": "Sardinha em Lata",
+      "category": "Proteinas",
+      "unit": "fardo",
+      "active": true
+    },
+    {
+      "id": "prd_055",
+      "name": "Batata",
+      "category": "Hortifruti",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_056",
+      "name": "Cebola",
+      "category": "Hortifruti",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_057",
+      "name": "Alho",
+      "category": "Hortifruti",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_058",
+      "name": "Tomate",
+      "category": "Hortifruti",
+      "unit": "pacote",
+      "active": true
+    },
+    {
+      "id": "prd_059",
+      "name": "Cenoura",
+      "category": "Hortifruti",
+      "unit": "caixa",
+      "active": true
+    },
+    {
+      "id": "prd_060",
+      "name": "Beterraba",
+      "category": "Hortifruti",
+      "unit": "fardo",
+      "active": true
+    },
+    {
+      "id": "prd_061",
+      "name": "Alface",
+      "category": "Hortifruti",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_062",
+      "name": "Rucula",
+      "category": "Hortifruti",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_063",
+      "name": "Couve",
+      "category": "Hortifruti",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_064",
+      "name": "Pimentao",
+      "category": "Hortifruti",
+      "unit": "pacote",
+      "active": true
+    },
+    {
+      "id": "prd_065",
+      "name": "Pepino",
+      "category": "Hortifruti",
+      "unit": "caixa",
+      "active": true
+    },
+    {
+      "id": "prd_066",
+      "name": "Maca",
+      "category": "Hortifruti",
+      "unit": "fardo",
+      "active": true
+    },
+    {
+      "id": "prd_067",
+      "name": "Banana",
+      "category": "Hortifruti",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_068",
+      "name": "Laranja",
+      "category": "Hortifruti",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_069",
+      "name": "Limao",
+      "category": "Hortifruti",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_070",
+      "name": "Pao Frances",
+      "category": "Padaria",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_071",
+      "name": "Pao de Forma",
+      "category": "Padaria",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_072",
+      "name": "Pao de Hamburguer",
+      "category": "Padaria",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_073",
+      "name": "Bolo Pronto",
+      "category": "Padaria",
+      "unit": "pacote",
+      "active": true
+    },
+    {
+      "id": "prd_074",
+      "name": "Torrada",
+      "category": "Padaria",
+      "unit": "caixa",
+      "active": true
+    },
+    {
+      "id": "prd_075",
+      "name": "Biscoito Agua e Sal",
+      "category": "Padaria",
+      "unit": "fardo",
+      "active": true
+    },
+    {
+      "id": "prd_076",
+      "name": "Biscoito Recheado",
+      "category": "Padaria",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_077",
+      "name": "Rosquinha",
+      "category": "Padaria",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_078",
+      "name": "Detergente",
+      "category": "Limpeza",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_079",
+      "name": "Sabao em Po",
+      "category": "Limpeza",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_080",
+      "name": "Agua Sanitaria",
+      "category": "Limpeza",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_081",
+      "name": "Desinfetante",
+      "category": "Limpeza",
+      "unit": "pacote",
+      "active": true
+    },
+    {
+      "id": "prd_082",
+      "name": "Esponja",
+      "category": "Limpeza",
+      "unit": "caixa",
+      "active": true
+    },
+    {
+      "id": "prd_083",
+      "name": "Papel Toalha",
+      "category": "Limpeza",
+      "unit": "fardo",
+      "active": true
+    },
+    {
+      "id": "prd_084",
+      "name": "Papel Higienico",
+      "category": "Limpeza",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_085",
+      "name": "Saco de Lixo",
+      "category": "Limpeza",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_086",
+      "name": "Lustra Moveis",
+      "category": "Limpeza",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_087",
+      "name": "Limpador Multiuso",
+      "category": "Limpeza",
+      "unit": "pacote",
+      "active": true
+    },
+    {
+      "id": "prd_088",
+      "name": "Guardanapo",
+      "category": "Cozinha",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_089",
+      "name": "Filme PVC",
+      "category": "Cozinha",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_090",
+      "name": "Papel Aluminio",
+      "category": "Cozinha",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_091",
+      "name": "Palito de Dente",
+      "category": "Cozinha",
+      "unit": "pacote",
+      "active": true
+    },
+    {
+      "id": "prd_092",
+      "name": "Copo Descartavel",
+      "category": "Cozinha",
+      "unit": "caixa",
+      "active": true
+    },
+    {
+      "id": "prd_093",
+      "name": "Prato Descartavel",
+      "category": "Cozinha",
+      "unit": "fardo",
+      "active": true
+    },
+    {
+      "id": "prd_094",
+      "name": "Talher Descartavel",
+      "category": "Cozinha",
+      "unit": "kg",
+      "active": true
+    },
+    {
+      "id": "prd_095",
+      "name": "Gas de Cozinha",
+      "category": "Cozinha",
+      "unit": "litro",
+      "active": true
+    },
+    {
+      "id": "prd_096",
+      "name": "Carvao",
+      "category": "Cozinha",
+      "unit": "un",
+      "active": true
+    },
+    {
+      "id": "prd_097",
+      "name": "Tempero Completo",
+      "category": "Cozinha",
+      "unit": "pacote",
+      "active": true
+    },
+    {
+      "id": "prd_098",
+      "name": "Oregano",
+      "category": "Cozinha",
+      "unit": "caixa",
+      "active": true
+    },
+    {
+      "id": "prd_099",
+      "name": "Pimenta-do-Reino",
+      "category": "Cozinha",
+      "unit": "fardo",
+      "active": true
+    },
+    {
+      "id": "prd_100",
+      "name": "Colorau",
+      "category": "Cozinha",
+      "unit": "kg",
+      "active": true
+    }
+  ],
+  "balances": [
+    {
+      "id": "bal_prd_001_loc_rincao",
+      "productId": "prd_001",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_001_loc_estancia",
+      "productId": "prd_001",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_002_loc_rincao",
+      "productId": "prd_002",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_002_loc_estancia",
+      "productId": "prd_002",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_003_loc_rincao",
+      "productId": "prd_003",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_003_loc_estancia",
+      "productId": "prd_003",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_004_loc_rincao",
+      "productId": "prd_004",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_004_loc_estancia",
+      "productId": "prd_004",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_005_loc_rincao",
+      "productId": "prd_005",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_005_loc_estancia",
+      "productId": "prd_005",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_006_loc_rincao",
+      "productId": "prd_006",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_006_loc_estancia",
+      "productId": "prd_006",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_007_loc_rincao",
+      "productId": "prd_007",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_007_loc_estancia",
+      "productId": "prd_007",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_008_loc_rincao",
+      "productId": "prd_008",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_008_loc_estancia",
+      "productId": "prd_008",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_009_loc_rincao",
+      "productId": "prd_009",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_009_loc_estancia",
+      "productId": "prd_009",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_010_loc_rincao",
+      "productId": "prd_010",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_010_loc_estancia",
+      "productId": "prd_010",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_011_loc_rincao",
+      "productId": "prd_011",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_011_loc_estancia",
+      "productId": "prd_011",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_012_loc_rincao",
+      "productId": "prd_012",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_012_loc_estancia",
+      "productId": "prd_012",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_013_loc_rincao",
+      "productId": "prd_013",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_013_loc_estancia",
+      "productId": "prd_013",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_014_loc_rincao",
+      "productId": "prd_014",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_014_loc_estancia",
+      "productId": "prd_014",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_015_loc_rincao",
+      "productId": "prd_015",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_015_loc_estancia",
+      "productId": "prd_015",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_016_loc_rincao",
+      "productId": "prd_016",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_016_loc_estancia",
+      "productId": "prd_016",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_017_loc_rincao",
+      "productId": "prd_017",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_017_loc_estancia",
+      "productId": "prd_017",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_018_loc_rincao",
+      "productId": "prd_018",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_018_loc_estancia",
+      "productId": "prd_018",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_019_loc_rincao",
+      "productId": "prd_019",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_019_loc_estancia",
+      "productId": "prd_019",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_020_loc_rincao",
+      "productId": "prd_020",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_020_loc_estancia",
+      "productId": "prd_020",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_021_loc_rincao",
+      "productId": "prd_021",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_021_loc_estancia",
+      "productId": "prd_021",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_022_loc_rincao",
+      "productId": "prd_022",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_022_loc_estancia",
+      "productId": "prd_022",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_023_loc_rincao",
+      "productId": "prd_023",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_023_loc_estancia",
+      "productId": "prd_023",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_024_loc_rincao",
+      "productId": "prd_024",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_024_loc_estancia",
+      "productId": "prd_024",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_025_loc_rincao",
+      "productId": "prd_025",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_025_loc_estancia",
+      "productId": "prd_025",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_026_loc_rincao",
+      "productId": "prd_026",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_026_loc_estancia",
+      "productId": "prd_026",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_027_loc_rincao",
+      "productId": "prd_027",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_027_loc_estancia",
+      "productId": "prd_027",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_028_loc_rincao",
+      "productId": "prd_028",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_028_loc_estancia",
+      "productId": "prd_028",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_029_loc_rincao",
+      "productId": "prd_029",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_029_loc_estancia",
+      "productId": "prd_029",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_030_loc_rincao",
+      "productId": "prd_030",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_030_loc_estancia",
+      "productId": "prd_030",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_031_loc_rincao",
+      "productId": "prd_031",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_031_loc_estancia",
+      "productId": "prd_031",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_032_loc_rincao",
+      "productId": "prd_032",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_032_loc_estancia",
+      "productId": "prd_032",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_033_loc_rincao",
+      "productId": "prd_033",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_033_loc_estancia",
+      "productId": "prd_033",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_034_loc_rincao",
+      "productId": "prd_034",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_034_loc_estancia",
+      "productId": "prd_034",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_035_loc_rincao",
+      "productId": "prd_035",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_035_loc_estancia",
+      "productId": "prd_035",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_036_loc_rincao",
+      "productId": "prd_036",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_036_loc_estancia",
+      "productId": "prd_036",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_037_loc_rincao",
+      "productId": "prd_037",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_037_loc_estancia",
+      "productId": "prd_037",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_038_loc_rincao",
+      "productId": "prd_038",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_038_loc_estancia",
+      "productId": "prd_038",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_039_loc_rincao",
+      "productId": "prd_039",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_039_loc_estancia",
+      "productId": "prd_039",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_040_loc_rincao",
+      "productId": "prd_040",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_040_loc_estancia",
+      "productId": "prd_040",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_041_loc_rincao",
+      "productId": "prd_041",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_041_loc_estancia",
+      "productId": "prd_041",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_042_loc_rincao",
+      "productId": "prd_042",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_042_loc_estancia",
+      "productId": "prd_042",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_043_loc_rincao",
+      "productId": "prd_043",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_043_loc_estancia",
+      "productId": "prd_043",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_044_loc_rincao",
+      "productId": "prd_044",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_044_loc_estancia",
+      "productId": "prd_044",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_045_loc_rincao",
+      "productId": "prd_045",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_045_loc_estancia",
+      "productId": "prd_045",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_046_loc_rincao",
+      "productId": "prd_046",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_046_loc_estancia",
+      "productId": "prd_046",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_047_loc_rincao",
+      "productId": "prd_047",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_047_loc_estancia",
+      "productId": "prd_047",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_048_loc_rincao",
+      "productId": "prd_048",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_048_loc_estancia",
+      "productId": "prd_048",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_049_loc_rincao",
+      "productId": "prd_049",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_049_loc_estancia",
+      "productId": "prd_049",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_050_loc_rincao",
+      "productId": "prd_050",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_050_loc_estancia",
+      "productId": "prd_050",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_051_loc_rincao",
+      "productId": "prd_051",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_051_loc_estancia",
+      "productId": "prd_051",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_052_loc_rincao",
+      "productId": "prd_052",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_052_loc_estancia",
+      "productId": "prd_052",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_053_loc_rincao",
+      "productId": "prd_053",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_053_loc_estancia",
+      "productId": "prd_053",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_054_loc_rincao",
+      "productId": "prd_054",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_054_loc_estancia",
+      "productId": "prd_054",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_055_loc_rincao",
+      "productId": "prd_055",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_055_loc_estancia",
+      "productId": "prd_055",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_056_loc_rincao",
+      "productId": "prd_056",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_056_loc_estancia",
+      "productId": "prd_056",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_057_loc_rincao",
+      "productId": "prd_057",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_057_loc_estancia",
+      "productId": "prd_057",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_058_loc_rincao",
+      "productId": "prd_058",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_058_loc_estancia",
+      "productId": "prd_058",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_059_loc_rincao",
+      "productId": "prd_059",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_059_loc_estancia",
+      "productId": "prd_059",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_060_loc_rincao",
+      "productId": "prd_060",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_060_loc_estancia",
+      "productId": "prd_060",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_061_loc_rincao",
+      "productId": "prd_061",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_061_loc_estancia",
+      "productId": "prd_061",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_062_loc_rincao",
+      "productId": "prd_062",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_062_loc_estancia",
+      "productId": "prd_062",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_063_loc_rincao",
+      "productId": "prd_063",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_063_loc_estancia",
+      "productId": "prd_063",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_064_loc_rincao",
+      "productId": "prd_064",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_064_loc_estancia",
+      "productId": "prd_064",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_065_loc_rincao",
+      "productId": "prd_065",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_065_loc_estancia",
+      "productId": "prd_065",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_066_loc_rincao",
+      "productId": "prd_066",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_066_loc_estancia",
+      "productId": "prd_066",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_067_loc_rincao",
+      "productId": "prd_067",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_067_loc_estancia",
+      "productId": "prd_067",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_068_loc_rincao",
+      "productId": "prd_068",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_068_loc_estancia",
+      "productId": "prd_068",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_069_loc_rincao",
+      "productId": "prd_069",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_069_loc_estancia",
+      "productId": "prd_069",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_070_loc_rincao",
+      "productId": "prd_070",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_070_loc_estancia",
+      "productId": "prd_070",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_071_loc_rincao",
+      "productId": "prd_071",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_071_loc_estancia",
+      "productId": "prd_071",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_072_loc_rincao",
+      "productId": "prd_072",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_072_loc_estancia",
+      "productId": "prd_072",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_073_loc_rincao",
+      "productId": "prd_073",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_073_loc_estancia",
+      "productId": "prd_073",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_074_loc_rincao",
+      "productId": "prd_074",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_074_loc_estancia",
+      "productId": "prd_074",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_075_loc_rincao",
+      "productId": "prd_075",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_075_loc_estancia",
+      "productId": "prd_075",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_076_loc_rincao",
+      "productId": "prd_076",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_076_loc_estancia",
+      "productId": "prd_076",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_077_loc_rincao",
+      "productId": "prd_077",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_077_loc_estancia",
+      "productId": "prd_077",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_078_loc_rincao",
+      "productId": "prd_078",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_078_loc_estancia",
+      "productId": "prd_078",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_079_loc_rincao",
+      "productId": "prd_079",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_079_loc_estancia",
+      "productId": "prd_079",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_080_loc_rincao",
+      "productId": "prd_080",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_080_loc_estancia",
+      "productId": "prd_080",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_081_loc_rincao",
+      "productId": "prd_081",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_081_loc_estancia",
+      "productId": "prd_081",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_082_loc_rincao",
+      "productId": "prd_082",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_082_loc_estancia",
+      "productId": "prd_082",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_083_loc_rincao",
+      "productId": "prd_083",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_083_loc_estancia",
+      "productId": "prd_083",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_084_loc_rincao",
+      "productId": "prd_084",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_084_loc_estancia",
+      "productId": "prd_084",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_085_loc_rincao",
+      "productId": "prd_085",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_085_loc_estancia",
+      "productId": "prd_085",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_086_loc_rincao",
+      "productId": "prd_086",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_086_loc_estancia",
+      "productId": "prd_086",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_087_loc_rincao",
+      "productId": "prd_087",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_087_loc_estancia",
+      "productId": "prd_087",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_088_loc_rincao",
+      "productId": "prd_088",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_088_loc_estancia",
+      "productId": "prd_088",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_089_loc_rincao",
+      "productId": "prd_089",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_089_loc_estancia",
+      "productId": "prd_089",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_090_loc_rincao",
+      "productId": "prd_090",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_090_loc_estancia",
+      "productId": "prd_090",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_091_loc_rincao",
+      "productId": "prd_091",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_091_loc_estancia",
+      "productId": "prd_091",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_092_loc_rincao",
+      "productId": "prd_092",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_092_loc_estancia",
+      "productId": "prd_092",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_093_loc_rincao",
+      "productId": "prd_093",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_093_loc_estancia",
+      "productId": "prd_093",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_094_loc_rincao",
+      "productId": "prd_094",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_094_loc_estancia",
+      "productId": "prd_094",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_095_loc_rincao",
+      "productId": "prd_095",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_095_loc_estancia",
+      "productId": "prd_095",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_096_loc_rincao",
+      "productId": "prd_096",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_096_loc_estancia",
+      "productId": "prd_096",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_097_loc_rincao",
+      "productId": "prd_097",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_097_loc_estancia",
+      "productId": "prd_097",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_098_loc_rincao",
+      "productId": "prd_098",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_098_loc_estancia",
+      "productId": "prd_098",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_099_loc_rincao",
+      "productId": "prd_099",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_099_loc_estancia",
+      "productId": "prd_099",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_100_loc_rincao",
+      "productId": "prd_100",
+      "localStockId": "loc_rincao",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "bal_prd_100_loc_estancia",
+      "productId": "prd_100",
+      "localStockId": "loc_estancia",
+      "quantity": 0,
+      "updatedAt": "2026-05-20T12:00:00.000Z"
+    }
+  ],
+  "movements": []
+}

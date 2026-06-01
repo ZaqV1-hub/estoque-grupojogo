@@ -1,26 +1,89 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #f8fbff;
+  --foreground: #071437;
+  --text: #071437;
+  --muted: #637197;
+  --panel-2: #f4f8ff;
+  --field: #ffffff;
+  --line: #dce5f5;
+  --accent: #0f62fe;
+  --accent-ink: #ffffff;
+  --shadow-sm: 0 12px 34px rgba(25, 55, 110, 0.08);
+  --shadow-lg: 0 26px 80px rgba(25, 55, 110, 0.18);
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-sans);
+  --font-serif: var(--font-serif);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  overflow: auto;
 }
 
 body {
-  background: var(--background);
+  background:
+    radial-gradient(circle at top right, rgba(15, 98, 254, 0.06), transparent 34%),
+    linear-gradient(180deg, #ffffff 0%, var(--background) 100%);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), sans-serif;
+}
+
+.field {
+  height: 40px;
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: var(--field);
+  padding: 0 14px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--text);
+  outline: none;
+  transition:
+    border-color 120ms ease,
+    box-shadow 120ms ease,
+    background-color 120ms ease;
+}
+
+.field:focus,
+.field:focus-within {
+  border-color: rgba(15, 98, 254, 0.55);
+  box-shadow: 0 0 0 4px rgba(15, 98, 254, 0.1);
+}
+
+textarea.field {
+  height: auto;
+  resize: none;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  background: #c5d2e8;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
 }

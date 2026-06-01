@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Controle de Estoque Rincao
 
-## Getting Started
+Web app de controle de estoque com:
 
-First, run the development server:
+- login simples
+- locais de estoque
+- espacos internos
+- produtos
+- movimentacoes de entrada, saida para consumo e transferencia
+- modo demonstracao persistente em arquivo
+- adaptador pronto para Google Sheets
+
+## Rodando localmente
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Login inicial:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- usuario: `diego`
+- senha: `rincao5979`
 
-## Learn More
+## Modo demonstracao
 
-To learn more about Next.js, take a look at the following resources:
+Sem variaveis do Google configuradas, o sistema grava em `data/demo-db.json`.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Isso permite testar toda a UX em localhost sem depender da planilha ainda.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Ativando Google Sheets
 
-## Deploy on Vercel
+Crie um `.env.local` com base em `.env.example`:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+SESSION_SECRET=um-segredo-forte
+GOOGLE_SHEET_ID=id-da-sua-planilha
+GOOGLE_SERVICE_ACCOUNT_JSON={"type":"service_account",...}
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Depois rode:
+
+```bash
+npm run setup:sheets
+npm run dev
+```
+
+O comando `setup:sheets` cria/atualiza as abas da planilha usando `data/demo-db.json`
+como estrutura inicial. Compartilhe a planilha com o email `client_email` da service
+account antes de rodar o comando.
+
+Abas esperadas na planilha:
+
+- `users`
+- `localStocks`
+- `spaces`
+- `products`
+- `balances`
+- `movements`
+
+Cada aba usa a primeira linha como cabecalho.
+
+## Qualidade
+
+```bash
+npm test
+npm run lint
+npm run build
+```
